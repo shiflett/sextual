@@ -14,7 +14,7 @@ To use, first find where your Textual themes are located. This will probably wor
 
 Next, just clone this project there:
 
-    $ git clone git@github.com:shiflett/subsolar.git
+    $ git clone https://github.com/shiflett/subsolar.git
 
 Restart Textual, then under Preferences, you should see a new style called *subsolar*.
 
